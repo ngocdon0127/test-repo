@@ -1,1 +1,1 @@
-branch1: fix something
+Merge branch1 to master
